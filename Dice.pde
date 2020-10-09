@@ -1,9 +1,7 @@
-void settings()
-{
-  size(500,500);
-}
+
 void setup()
   {
+    size(500,500);
     noLoop();
   }
   void draw()
